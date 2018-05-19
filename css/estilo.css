@@ -19,8 +19,6 @@ h3{
 	padding: 5%;
 	margin: 0;
 	background-image: url("fondo.jpg");
-}
-.col-md-4{
 	
 }
 .col-md-8{
@@ -52,4 +50,11 @@ h3{
 .panel-title{
 	font-size: 15px;
 	font-family: 'Permanent Marker', cursive;
+}
+#info{
+	color: black;
+	font-family: 'Permanent Marker', cursive;
+}
+#infop{
+	font-weight: bold;
 }
